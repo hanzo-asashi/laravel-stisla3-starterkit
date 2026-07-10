@@ -172,3 +172,9 @@ This starter kit ships with pre-configured, anonymous Blade UI components matchi
   * `scrollable` (boolean to make dialog body scrollable when content is long)
   * `position` (top, bottom to anchor dialog panel)
 
+---
+
+## 📄 License
+
+The Laravel 13 Stisla 3 Meridian Starter Kit is open-sourced software licensed under the [MIT license](LICENSE).
+
